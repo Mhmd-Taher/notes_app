@@ -20,8 +20,9 @@ class CustomSearchItem extends StatelessWidget {
           icon: Icon(
             icon,
             size: 28,
+            color: Colors.white,
           ),
-          onPressed:onPressed,
+          onPressed: onPressed,
         ),
       ),
     );
